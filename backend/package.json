@@ -1,0 +1,25 @@
+{
+  "name": "zenvia-newhorizon",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "mon": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "date-fns": "^2.16.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "knex": "^0.21.5",
+    "pg": "^8.3.3",
+    "request": "^2.88.2",
+    "sqlite3": "^5.0.0",
+    "uuidv4": "^6.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
