@@ -16,7 +16,7 @@
     "knex": "^0.21.5",
     "pg": "^8.3.3",
     "request": "^2.88.2",
-    "sqlite3": "^5.0.0",
+    "sqlite3": "^5.0.3",
     "uuidv4": "^6.2.3"
   },
   "devDependencies": {
